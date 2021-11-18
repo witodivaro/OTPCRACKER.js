@@ -19,9 +19,6 @@ const encrypted2 = OTP.encrypt(KEY, "hoka amigos amigos holas");
 const answer = {};
 const result = xorHexStrings(encrypted, encrypted2);
 
-const SPACES = [3, 10, 18, 21, 42, 35, 50, 56, 60, 64, 68, 73, 78];
-// const SPACES = [];
-
 asciiHexToString(result)
   .split("")
   .map((el, index) => {
@@ -37,7 +34,6 @@ function applyAsciiEncryptedHexesToString(string, ...asciiEncrypted) {
       .split("")
       .map((el, index) => {
         if (("A" <= el && el <= "Z") || ("a" <= el && el <= "z")) {
-          if (SPACES.includes(index)) return;
           persistingLetters[index] = persistingLetters[index] ? persistingLetters[index] + 1 : 1;
           const letterHex = stringToAsciiHex(el);
           const actualHex = string.slice(index * 2, index * 2 + 2);
@@ -74,22 +70,18 @@ function applyAsciiEncryptedHexesToString(string, ...asciiEncrypted) {
   return ans.join("");
 }
 
-// console.log(applyAsciiEncryptedHexesToString(targetString, ...helperStrings));
-// console.log(applyAsciiEncryptedHexesToString(encrypted, encrypted2));
-//
-
 let key =
   "66396e89c9dbd8cc9874352acd6395102eafce78aa7fed28a07f6bc98d29c50b69b0339a19f8aa401a9c6d708f80c066c763fef0123148cdd8e802d05ba98777335daefcecd59c433a6b268b60bf4ef03c9a61";
 
 function showOne(key, index) {
   console.log();
-  console.log(OTP.decrypt(key, encryptedStrings[index]));
+  console.log(OTP.decrypt(key, encryptedStrings[index], true));
 }
 
 function showEvery(key) {
   encryptedStrings.forEach((string, i) => {
     console.log();
-    console.log([i, OTP.decrypt(key, string)].join(": "));
+    console.log([i, OTP.decrypt(key, string, true)].join(": "));
   });
 }
 
@@ -116,14 +108,10 @@ async function prompt() {
   const currentBlankPosition = key.indexOf("*");
 
   const hexedLetter = stringToAsciiHex(letter);
-  console.log(currentBlankPosition);
   const hexedMessagePart = encryptedStrings[pos].slice(currentBlankPosition, currentBlankPosition + 2);
-  console.log(hexedMessagePart);
   const keyPart = xorHexStrings(hexedLetter, hexedMessagePart);
-  console.log(keyPart);
 
   tempKey = key.replace(/\*\*/, keyPart);
-  22;
 
   showEvery(tempKey);
 
