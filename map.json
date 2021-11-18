@@ -1,0 +1,996 @@
+{
+  "0": {
+    "letter": "t",
+    "letterHex": "74",
+    "actualHex": "32",
+    "key": "46",
+    "pos": 0
+  },
+  "1": {
+    "letter": "H",
+    "letterHex": "48",
+    "actualHex": "51",
+    "key": "19",
+    "pos": 1
+  },
+  "2": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "0b",
+    "key": "4e",
+    "pos": 2
+  },
+  "3": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "a9",
+    "key": "ea",
+    "pos": 3
+  },
+  "4": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "ba",
+    "key": "e9",
+    "pos": 4
+  },
+  "5": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "be",
+    "key": "fb",
+    "pos": 5
+  },
+  "6": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "bb",
+    "key": "f8",
+    "pos": 6
+  },
+  "7": {
+    "letter": "U",
+    "letterHex": "55",
+    "actualHex": "be",
+    "key": "eb",
+    "pos": 7
+  },
+  "8": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "fd",
+    "key": "b8",
+    "pos": 8
+  },
+  "9": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "00",
+    "key": "54",
+    "pos": 9
+  },
+  "10": {
+    "letter": "Y",
+    "letterHex": "59",
+    "actualHex": "41",
+    "key": "18",
+    "pos": 10
+  },
+  "11": {
+    "letter": "M",
+    "letterHex": "4d",
+    "actualHex": "47",
+    "key": "0a",
+    "pos": 11
+  },
+  "12": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "a8",
+    "key": "ed",
+    "pos": 12
+  },
+  "13": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "10",
+    "key": "43",
+    "pos": 13
+  },
+  "14": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "e6",
+    "key": "b5",
+    "pos": 14
+  },
+  "15": {
+    "letter": "A",
+    "letterHex": "41",
+    "actualHex": "71",
+    "key": "30",
+    "pos": 15
+  },
+  "16": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "49",
+    "key": "0e",
+    "pos": 16
+  },
+  "17": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "ca",
+    "key": "8f",
+    "pos": 17
+  },
+  "18": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "ee",
+    "key": "bd",
+    "pos": 18
+  },
+  "19": {
+    "letter": "I",
+    "letterHex": "49",
+    "actualHex": "11",
+    "key": "58",
+    "pos": 19
+  },
+  "20": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "d9",
+    "key": "8a",
+    "pos": 20
+  },
+  "21": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "1a",
+    "key": "5f",
+    "pos": 21
+  },
+  "22": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "cd",
+    "key": "88",
+    "pos": 22
+  },
+  "23": {
+    "letter": "w",
+    "letterHex": "77",
+    "actualHex": "7f",
+    "key": "08",
+    "pos": 23
+  },
+  "24": {
+    "letter": "H",
+    "letterHex": "48",
+    "actualHex": "c8",
+    "key": "80",
+    "pos": 24
+  },
+  "25": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "1a",
+    "key": "4e",
+    "pos": 25
+  },
+  "26": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "05",
+    "key": "4b",
+    "pos": 26
+  },
+  "27": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "e9",
+    "key": "a6",
+    "pos": 27
+  },
+  "28": {
+    "letter": "U",
+    "letterHex": "55",
+    "actualHex": "f8",
+    "key": "ad",
+    "pos": 28
+  },
+  "29": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "5a",
+    "key": "09",
+    "pos": 29
+  },
+  "30": {
+    "letter": "I",
+    "letterHex": "49",
+    "actualHex": "ac",
+    "key": "e5",
+    "pos": 30
+  },
+  "31": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "65",
+    "key": "2b",
+    "pos": 31
+  },
+  "32": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "0e",
+    "key": "49",
+    "pos": 32
+  },
+  "33": {
+    "letter": "Y",
+    "letterHex": "59",
+    "actualHex": "90",
+    "key": "c9",
+    "pos": 33
+  },
+  "34": {
+    "letter": "A",
+    "letterHex": "41",
+    "actualHex": "52",
+    "key": "13",
+    "pos": 34
+  },
+  "35": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "f4",
+    "key": "ba",
+    "pos": 35
+  },
+  "36": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "6a",
+    "key": "39",
+    "pos": 36
+  },
+  "37": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "8c",
+    "key": "d8",
+    "pos": 37
+  },
+  "38": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "d8",
+    "key": "8a",
+    "pos": 38
+  },
+  "39": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "25",
+    "key": "60",
+    "pos": 39
+  },
+  "40": {
+    "letter": "A",
+    "letterHex": "41",
+    "actualHex": "7b",
+    "key": "3a",
+    "pos": 40
+  },
+  "41": {
+    "letter": "M",
+    "letterHex": "4d",
+    "actualHex": "f1",
+    "key": "bc",
+    "pos": 41
+  },
+  "42": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "02",
+    "key": "4d",
+    "pos": 42
+  },
+  "43": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "13",
+    "key": "50",
+    "pos": 43
+  },
+  "44": {
+    "letter": "I",
+    "letterHex": "49",
+    "actualHex": "e6",
+    "key": "af",
+    "pos": 44
+  },
+  "45": {
+    "letter": "P",
+    "letterHex": "50",
+    "actualHex": "f0",
+    "key": "a0",
+    "pos": 45
+  },
+  "46": {
+    "letter": "H",
+    "letterHex": "48",
+    "actualHex": "a8",
+    "key": "e0",
+    "pos": 46
+  },
+  "47": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "03",
+    "key": "46",
+    "pos": 47
+  },
+  "48": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "b5",
+    "key": "e7",
+    "pos": 48
+  },
+  "49": {
+    "letter": "D",
+    "letterHex": "44",
+    "actualHex": "4f",
+    "key": "0b",
+    "pos": 49
+  },
+  "50": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "97",
+    "key": "d0",
+    "pos": 50
+  },
+  "51": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "9e",
+    "key": "d0",
+    "pos": 51
+  },
+  "52": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "77",
+    "key": "32",
+    "pos": 52
+  },
+  "53": {
+    "letter": "V",
+    "letterHex": "56",
+    "actualHex": "47",
+    "key": "11",
+    "pos": 53
+  },
+  "54": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "2d",
+    "key": "68",
+    "pos": 54
+  },
+  "55": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "bf",
+    "key": "ed",
+    "pos": 55
+  },
+  "56": {
+    "letter": "g",
+    "letterHex": "67",
+    "actualHex": "f8",
+    "key": "9f",
+    "pos": 56
+  },
+  "57": {
+    "letter": "U",
+    "letterHex": "55",
+    "actualHex": "9d",
+    "key": "c8",
+    "pos": 57
+  },
+  "58": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "71",
+    "key": "22",
+    "pos": 58
+  },
+  "59": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "b5",
+    "key": "f0",
+    "pos": 59
+  },
+  "60": {
+    "letter": "L",
+    "letterHex": "4c",
+    "actualHex": "7b",
+    "key": "37",
+    "pos": 60
+  },
+  "61": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "dd",
+    "key": "89",
+    "pos": 61
+  },
+  "62": {
+    "letter": "H",
+    "letterHex": "48",
+    "actualHex": "ef",
+    "key": "a7",
+    "pos": 62
+  },
+  "63": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "12",
+    "key": "57",
+    "pos": 63
+  },
+  "64": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "54",
+    "key": "13",
+    "pos": 64
+  },
+  "65": {
+    "letter": "K",
+    "letterHex": "4b",
+    "actualHex": "36",
+    "key": "7d",
+    "pos": 65
+  },
+  "66": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "cb",
+    "key": "8e",
+    "pos": 66
+  },
+  "67": {
+    "letter": "Y",
+    "letterHex": "59",
+    "actualHex": "85",
+    "key": "dc",
+    "pos": 67
+  },
+  "68": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "cc",
+    "key": "83",
+    "pos": 68
+  },
+  "69": {
+    "letter": "M",
+    "letterHex": "4d",
+    "actualHex": "b8",
+    "key": "f5",
+    "pos": 69
+  },
+  "70": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "f3",
+    "key": "bc",
+    "pos": 70
+  },
+  "71": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "31",
+    "key": "63",
+    "pos": 71
+  },
+  "72": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "5f",
+    "key": "1a",
+    "pos": 72
+  },
+  "73": {
+    "letter": "I",
+    "letterHex": "49",
+    "actualHex": "02",
+    "key": "4b",
+    "pos": 73
+  },
+  "74": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "52",
+    "key": "06",
+    "pos": 74
+  },
+  "75": {
+    "letter": "H",
+    "letterHex": "48",
+    "actualHex": "e3",
+    "key": "ab",
+    "pos": 75
+  },
+  "76": {
+    "letter": "A",
+    "letterHex": "41",
+    "actualHex": "01",
+    "key": "40",
+    "pos": 76
+  },
+  "77": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "d1",
+    "key": "9f",
+    "pos": 77
+  },
+  "78": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "3a",
+    "key": "6e",
+    "pos": 78
+  },
+  "79": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "9f",
+    "key": "d0",
+    "pos": 79
+  },
+  "80": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "52",
+    "key": "1c",
+    "pos": 80
+  },
+  "81": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "f9",
+    "key": "ba",
+    "pos": 81
+  },
+  "82": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "04",
+    "key": "41",
+    "pos": 82
+  },
+  "83": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "60",
+    "key": "25",
+    "pos": 83
+  },
+  "84": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "ea",
+    "key": "b8",
+    "pos": 84
+  },
+  "85": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "d4",
+    "key": "9b",
+    "pos": 85
+  },
+  "86": {
+    "letter": "Y",
+    "letterHex": "59",
+    "actualHex": "59",
+    "key": "00",
+    "pos": 86
+  },
+  "87": {
+    "letter": "U",
+    "letterHex": "55",
+    "actualHex": "ef",
+    "key": "ba",
+    "pos": 87
+  },
+  "88": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "52",
+    "key": "11",
+    "pos": 88
+  },
+  "89": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "04",
+    "key": "41",
+    "pos": 89
+  },
+  "90": {
+    "letter": "D",
+    "letterHex": "44",
+    "actualHex": "89",
+    "key": "cd",
+    "pos": 90
+  },
+  "91": {
+    "letter": "U",
+    "letterHex": "55",
+    "actualHex": "e7",
+    "key": "b2",
+    "pos": 91
+  },
+  "93": {
+    "letter": "Y",
+    "letterHex": "59",
+    "actualHex": "7d",
+    "key": "24",
+    "pos": 93
+  },
+  "94": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "83",
+    "key": "c4",
+    "pos": 94
+  },
+  "95": {
+    "letter": "A",
+    "letterHex": "41",
+    "actualHex": "54",
+    "key": "15",
+    "pos": 95
+  },
+  "96": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "02",
+    "key": "56",
+    "pos": 96
+  },
+  "97": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "bc",
+    "key": "ef",
+    "pos": 97
+  },
+  "98": {
+    "letter": "T",
+    "letterHex": "54",
+    "actualHex": "a6",
+    "key": "f2",
+    "pos": 98
+  },
+  "99": {
+    "letter": "p",
+    "letterHex": "70",
+    "actualHex": "70",
+    "key": "00",
+    "pos": 99
+  },
+  "100": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "bd",
+    "key": "f2",
+    "pos": 100
+  },
+  "102": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "eb",
+    "key": "ac",
+    "pos": 102
+  },
+  "103": {
+    "letter": "S",
+    "letterHex": "53",
+    "actualHex": "77",
+    "key": "24",
+    "pos": 103
+  },
+  "104": {
+    "letter": "E",
+    "letterHex": "45",
+    "actualHex": "52",
+    "key": "17",
+    "pos": 104
+  },
+  "105": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "00",
+    "key": "4e",
+    "pos": 105
+  },
+  "106": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "b8",
+    "key": "fb",
+    "pos": 106
+  },
+  "107": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "da",
+    "key": "88",
+    "pos": 107
+  },
+  "108": {
+    "letter": "Y",
+    "letterHex": "59",
+    "actualHex": "bb",
+    "key": "e2",
+    "pos": 108
+  },
+  "111": {
+    "letter": "I",
+    "letterHex": "49",
+    "actualHex": "6b",
+    "key": "22",
+    "pos": 111
+  },
+  "112": {
+    "letter": "O",
+    "letterHex": "4f",
+    "actualHex": "13",
+    "key": "5c",
+    "pos": 112
+  },
+  "114": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "04",
+    "key": "56",
+    "pos": 114
+  },
+  "115": {
+    "letter": "L",
+    "letterHex": "4c",
+    "actualHex": "0d",
+    "key": "41",
+    "pos": 115
+  },
+  "116": {
+    "letter": "L",
+    "letterHex": "4c",
+    "actualHex": "8e",
+    "key": "c2",
+    "pos": 116
+  },
+  "117": {
+    "letter": "G",
+    "letterHex": "47",
+    "actualHex": "c6",
+    "key": "81",
+    "pos": 117
+  },
+  "118": {
+    "letter": "D",
+    "letterHex": "44",
+    "actualHex": "44",
+    "key": "00",
+    "pos": 118
+  },
+  "120": {
+    "letter": "I",
+    "letterHex": "49",
+    "actualHex": "2c",
+    "key": "65",
+    "pos": 120
+  },
+  "121": {
+    "letter": "v",
+    "letterHex": "76",
+    "actualHex": "76",
+    "key": "00",
+    "pos": 121
+  },
+  "122": {
+    "letter": "D",
+    "letterHex": "44",
+    "actualHex": "7f",
+    "key": "3b",
+    "pos": 122
+  },
+  "123": {
+    "letter": "M",
+    "letterHex": "4d",
+    "actualHex": "3d",
+    "key": "70",
+    "pos": 123
+  },
+  "124": {
+    "letter": "A",
+    "letterHex": "41",
+    "actualHex": "30",
+    "key": "71",
+    "pos": 124
+  },
+  "125": {
+    "letter": "C",
+    "letterHex": "43",
+    "actualHex": "ed",
+    "key": "ae",
+    "pos": 125
+  },
+  "126": {
+    "letter": "r",
+    "letterHex": "72",
+    "actualHex": "81",
+    "key": "f3",
+    "pos": 126
+  },
+  "127": {
+    "letter": "p",
+    "letterHex": "70",
+    "actualHex": "ea",
+    "key": "9a",
+    "pos": 127
+  },
+  "129": {
+    "letter": "L",
+    "letterHex": "4c",
+    "actualHex": "4c",
+    "key": "00",
+    "pos": 129
+  },
+  "130": {
+    "letter": "L",
+    "letterHex": "4c",
+    "actualHex": "14",
+    "key": "58",
+    "pos": 130
+  },
+  "132": {
+    "letter": "P",
+    "letterHex": "50",
+    "actualHex": "e1",
+    "key": "b1",
+    "pos": 132
+  },
+  "133": {
+    "letter": "h",
+    "letterHex": "68",
+    "actualHex": "31",
+    "key": "59",
+    "pos": 133
+  },
+  "134": {
+    "letter": "Z",
+    "letterHex": "5a",
+    "actualHex": "5a",
+    "key": "00",
+    "pos": 134
+  },
+  "139": {
+    "letter": "R",
+    "letterHex": "52",
+    "actualHex": "9b",
+    "key": "c9",
+    "pos": 139
+  },
+  "141": {
+    "letter": "c",
+    "letterHex": "63",
+    "actualHex": "63",
+    "key": "00",
+    "pos": 141
+  },
+  "142": {
+    "letter": "j",
+    "letterHex": "6a",
+    "actualHex": "6a",
+    "key": "00",
+    "pos": 142
+  },
+  "143": {
+    "letter": "N",
+    "letterHex": "4e",
+    "actualHex": "aa",
+    "key": "e4",
+    "pos": 143
+  },
+  "144": {
+    "letter": "d",
+    "letterHex": "44",
+    "actualHex": "8b",
+    "key": "cf",
+    "pos": 144
+  },
+  "145": {
+    "letter": "c",
+    "letterHex": "63",
+    "actualHex": "63",
+    "key": "00",
+    "pos": 145
+  },
+  "148": {
+    "letter": "y",
+    "letterHex": "59",
+    "actualHex": "d0",
+    "key": "89",
+    "pos": 148
+  },
+  "151": {
+    "letter": "s",
+    "letterHex": "73",
+    "actualHex": "73",
+    "key": "00",
+    "pos": 151
+  },
+  "154": {
+    "letter": "z",
+    "letterHex": "5a",
+    "actualHex": "f0",
+    "key": "aa",
+    "pos": 154
+  },
+  "155": {
+    "letter": "f",
+    "letterHex": "46",
+    "actualHex": "88",
+    "key": "ce",
+    "pos": 155
+  },
+  "156": {
+    "letter": "b",
+    "letterHex": "42",
+    "actualHex": "a2",
+    "key": "e0",
+    "pos": 156
+  },
+  "157": {
+    "letter": "r",
+    "letterHex": "52",
+    "actualHex": "f1",
+    "key": "a3",
+    "pos": 157
+  },
+  "160": {
+    "letter": "u",
+    "letterHex": "55",
+    "actualHex": "12",
+    "key": "47",
+    "pos": 160
+  },
+  "168": {
+    "letter": "s",
+    "letterHex": "53",
+    "actualHex": "53",
+    "key": "00",
+    "pos": 168
+  },
+  "169": {
+    "letter": "i",
+    "letterHex": "49",
+    "actualHex": "25",
+    "key": "6c",
+    "pos": 169
+  }
+}
